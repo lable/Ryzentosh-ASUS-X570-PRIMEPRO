@@ -19,6 +19,8 @@ OpenCore config for Zen2 and ASUS Prime X570-PRO based installations.
 * SATA: Samsung 860 Evo 1TB
 * SATA: Samsung 850 Evo 1TB
 
+* y 20200808 OpenCore 0.6/AMD Ryzen 3700X/ASUS PRIME X570-PRO/Corsair DDR4 3200 2*8GB/WX5100/TOSHIBA-TR200 500GB
+
 ## Tips and tricks
 
 ### Audio stuttering and crackling
